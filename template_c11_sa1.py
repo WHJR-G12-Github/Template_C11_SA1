@@ -29,7 +29,7 @@ class Bird:
 
     # Create a rectangle at [250,400] with 40,320 as width and height. Name it as 'bpipe'
     
-    # Define a function 'display()' to display the pipe image over the 'bpipe' rectangle
+    # Define a method 'display()' to display the pipe image over the 'bpipe' rectangle
     
       
 bird1=Bird()
